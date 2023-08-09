@@ -1,0 +1,24 @@
+h1.titulo{
+    color: green;
+}
+
+p.strong{
+    color: red;
+}
+
+p.destacado{
+    color: yellow;
+}
+
+h2.subtitulo{
+    color: blue;
+}
+
+p.a{
+    color: red;
+}
+
+p.especial{
+    color: mediumslateblue;
+}
+
