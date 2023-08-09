@@ -1,24 +1,51 @@
-h1.titulo{
+#titulo{
     color: green;
 }
 
-p.strong{
+p strong{
     color: red;
 }
 
-p.destacado{
+.destacado{
     color: yellow;
 }
 
-h2.subtitulo{
+#subtitulo{
     color: blue;
 }
 
-p.a{
+a{
     color: red;
 }
 
-p.especial{
+em{
+    color: blue;
+}
+
+.especial{
     color: mediumslateblue;
 }
 
+th.especial{
+    color: yellow;
+}
+
+th{
+    color: red;
+}
+
+td{
+    color:green;
+}
+
+#adicional{
+    color: yellow;
+}
+
+#especial{
+    color: purple;
+}
+
+a{
+    color:green;
+}
